@@ -1,4 +1,4 @@
-I uploaded env filed also . So that Skill Academy can check my project
+I uploaded env file also . So that Skill Academy can check my project
 
 # Getting Started with Create React App
 
